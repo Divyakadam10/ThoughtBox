@@ -1,0 +1,2 @@
+ThoughtBox is a robust and user-friendly application designed to streamline your thought management process. It features seamless account creation and login, ensuring secure access to your personal profile. With ThoughtBox, users can effortlessly manage their profiles and create, read, update, and delete thoughts. The intuitive interface and efficient CRUD operations provide a smooth and efficient user experience. Whether you're organizing your ideas or tracking your daily musings, ThoughtBox is your go-to solution for all your thought management needs.
+
